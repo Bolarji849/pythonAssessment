@@ -9,7 +9,7 @@ def addition(number1, number2):
 	
 	sum_of_result = str (addition)
 
-	print( sum_of_result )
+	return sum_of_result 
 
 
 
