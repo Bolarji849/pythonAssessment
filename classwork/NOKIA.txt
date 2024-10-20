@@ -1,0 +1,24 @@
+String main_menu = """  
+			Main Menu   
+			1 >>  Phone book	
+			2 >>  Messages
+			3 >>  Chat		
+			4 >>  Call register
+			5 >>  Tone
+			6 >>  Settings
+			7 >>  Call divert
+			8 >>  Games
+			9 >>  Caculator
+			10 >> Reminders
+			11 >> Clock
+			12 >> Profiles
+			13 >> Sim services
+				
+					""" 
+				
+	System.out.print(main_menu)
+	 mainmenu  int = (input("Please enter number")
+
+       
+
+

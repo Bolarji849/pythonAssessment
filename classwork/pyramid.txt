@@ -1,0 +1,21 @@
+"""
+write a program that prompts the user to enter an integer from 1 to 13 and displays a pyramid as shown below
+sample run
+enter the number of lines:7
+display:
+			
+
+"""
+
+count = 1
+
+while count <= 2
+
+	count = count+1
+digit = 1
+	while digit <= 2
+	
+	digit++
+	
+
+
